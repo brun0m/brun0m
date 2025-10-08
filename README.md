@@ -6,44 +6,47 @@
 🤔 I’m looking for help with **best practices in deploying web apps and improving code performance**  
 💬 Ask me about **Python, Django, JavaScript, data analysis, or project structuring**  
 📫 How to reach me: **[brunosousa350num@gmail.com](mailto:brunosousa350num@gmail.com)**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: **I also love fitness and automating daily tasks!**  
 
----
+### 💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+</p>
 
-## 🛠 Tecnologias e Ferramentas
-
-### 💻 Linguagens de Programação
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
-
-### ⚙️ Frameworks & Bibliotecas
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg)
-![PyPlot](https://matplotlib.org/stable/_static/images/logo2.svg)
+### ⚙️ Frameworks and Libraries
+<p>
+  <img src="https://th.bing.com/th/id/ODF.7viXyt9_UTjOZg1bzu0NPg?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=12&pid=1.2" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+</p>
 
 ### 📊 Data Science & Dashboards
-![Power BI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg)
-![Tableau](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg)
-![Matplotlib](https://matplotlib.org/stable/_static/images/logo2.svg)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/800px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1920px-Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://logo.svgcdn.com/l/matplotlib.png" alt="MatPlotLib" width="40" height="40"/>
+</p>
 
-### 🗄 Bancos de Dados
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)
+### 🗄 Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</p>
 
-### 🖥 Sistemas Operacionais
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+### 🖥 Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-### 🔧 Versionamento & Ferramentas
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-
----
+### 🔧 Versioning and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -51,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun0m&theme=radical&layout=compact" width="48%" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brun0m&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brun0m" width="48%" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=brun0m&count_private=true&show_icons=true&theme=radical" width="100%" />
+  <br>
 </div>
