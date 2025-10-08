@@ -1,4 +1,4 @@
-## Olá, eu sou o Bruno 👋
+## Hi, i'm Bruno 👋
 
 🔭 I’m currently working on **personal projects in Python and Django**, focusing on web apps and data analysis  
 🌱 I’m currently learning **advanced data science techniques, machine learning, and front-end frameworks like React**  
@@ -6,6 +6,8 @@
 🤔 I’m looking for help with **best practices in deploying web apps and improving code performance**  
 💬 Ask me about **Python, Django, JavaScript, data analysis, or project structuring**  
 📫 How to reach me: **[brunosousa350num@gmail.com](mailto:brunosousa350num@gmail.com)**  
+💼 LinkedIn: **https://www.linkedin.com/in/bruno-sousa-batista-220a83372/**
+🎮 Discord: brunom2535
 
 ### 💻 Programming Languages
 <p>
