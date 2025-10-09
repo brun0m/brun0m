@@ -6,7 +6,7 @@
 🤔 I’m looking for help with **best practices in deploying web apps and improving code performance**  
 💬 Ask me about **Python, Django, JavaScript, data analysis, or project structuring**  
 📫 How to reach me: **[brunosousa350num@gmail.com](mailto:brunosousa350num@gmail.com)**  
-💼 LinkedIn: **https://www.linkedin.com/in/bruno-sousa-batista-220a83372/**
+💼 LinkedIn: **https://www.linkedin.com/in/bruno-sousa-batista-220a83372/**  
 🎮 Discord: brunom2535
 
 ### 💻 Programming Languages
@@ -27,6 +27,7 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/800px-New_Power_BI_Logo.svg.png" alt="Power BI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1920px-Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png" alt="JupyterNotebook" width="40" height="40"/>
   <img src="https://logo.svgcdn.com/l/matplotlib.png" alt="MatPlotLib" width="40" height="40"/>
 </p>
 
